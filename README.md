@@ -31,7 +31,7 @@
 
 ## 📈 GitHub Stats
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarvis2754&show_icons=true&theme=radical)
+<!--![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarvis2754&show_icons=true&theme=radical)-->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis2754&layout=compact&theme=radical)
 
