@@ -4,8 +4,8 @@
 
 ---
 
-- 🔭 Currently working on: **DevTracker** – A team-based productivity tracker
-- 🚧 Also developing: **Personal Finance Tracker** (React + Chart.js)
+<!--- 🔭 Currently working on: **DevTracker** – A team-based productivity tracker
+- 🚧 Also developing: **Personal Finance Tracker** (React + Chart.js)-->
 - 🌱 Currently diving deep into: `Spring Boot`, `REST APIs`, `Spring Security`, and `Advanced Java Concepts`
 - 💬 Ask me about: `Java`, `Spring Boot`, `React.js`, `Web Development`, `Firebase`
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/vignesh-p-46153a302)
